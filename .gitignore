@@ -1,8 +1,5 @@
 
-*/.idea/*
-target/
-*/.mvn/
-.idea/*
+.idea/workspace.xml
 
 
 
