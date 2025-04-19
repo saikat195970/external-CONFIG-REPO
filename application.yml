@@ -1,0 +1,11 @@
+  datasource:
+    url: jdbc:mysql://localhost/SB_Microservice_DB
+    username: saikat
+    password: saikat
+  h2:
+    console:
+      enabled: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
