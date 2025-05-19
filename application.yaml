@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost/SB_Microservice_DB
+    url: jdbc:mysql://localhost/sb-microservices-db
     username: saikat
     password: saikat
   h2:
